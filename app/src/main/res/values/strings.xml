@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">disconnected</string>
+    <string name="msgWifi">Proceed to verify your account\'s Wi-Fi access enablement</string>
+    <string name="email_or_phone">Email or phone</string>
+    <string name="Next">Next</string>
+    <string name="Create_Account">Create Account</string>
+    <string name="Enter_password">Enter password to reactivate wifi</string>
+    <string name="password">Password</string>
+    <string name="activate">Activate</string>
+
+</resources>

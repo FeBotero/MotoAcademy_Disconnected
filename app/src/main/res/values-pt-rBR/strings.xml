@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">disconnected</string>
+    <string name="msgWifi">Prossseguir para verificar a habilitação de acesso ao Wi-Fi da sua conta</string>
+    <string name="email_or_phone">Email ou telefone</string>
+    <string name="Next">Próxima</string>
+    <string name="Create_Account">Criar conta</string>
+    <string name="Enter_password">Digite a senha para reativar o wi-fi</string>
+    <string name="password">Senha</string>
+    <string name="activate">Ativar</string>
+</resources>
