@@ -70,7 +70,7 @@ Disconnected
   <li>Emily Magalhães</li>
   <li>Felipe Botero</li>
   <li>Izaque Rolim</li>
-  <li>Kelwyn Oliveira</li>
+  <li><a href="https://github.com/kelwynOliveira">Kelwyn Oliveira</a></li>
   <li>Ricardo Coimbra</li>
   </ul>
   
