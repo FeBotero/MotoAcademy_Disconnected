@@ -2,6 +2,7 @@ package com.motoacademy.disconnected;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -28,7 +29,10 @@ public class MainActivity extends AppCompatActivity {
               if(TextUtils.isEmpty(userInput)){
                   Toast.makeText(MainActivity.this,"O campo está vazio!", Toast.LENGTH_SHORT).show();
               }else{
-                  Toast.makeText(MainActivity.this,"Seguinte!", Toast.LENGTH_SHORT).show();
+                  //Toast.makeText(MainActivity.this,"Seguinte!", Toast.LENGTH_SHORT).show();
+                  Intent intent = new Intent(MainActivity.this, Activate.class);
+                  startActivity(intent);
+                  finish();
               }
             }
         });
