@@ -67,11 +67,11 @@ Disconnected
 <p>
   Projeto feito por: </p>
   <ul>
-  <li>Emily Magalhães</li>
-  <li>Felipe Botero</li>
-  <li>Izaque Rolim</li>
+  <li><a href="https://github.com/emillyvale">Emily Magalhães</a></li>
+  <li><a href="https://github.com/FeBotero">Felipe Botero</a></li>
+  <li><a href="https://github.com/IzaqueRolim">Izaque Rolim</a></li>
   <li><a href="https://github.com/kelwynOliveira">Kelwyn Oliveira</a></li>
-  <li>Ricardo Coimbra</li>
+  <li><a href="https://github.com/ricardocoimbra">Ricardo Coimbra</a></li>
   </ul>
   
   
